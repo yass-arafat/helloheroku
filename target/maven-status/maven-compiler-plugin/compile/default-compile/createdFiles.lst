@@ -1,0 +1,13 @@
+com/yassir/restapimessanger/restapimessanger001/resources/beans/MessageFilterBean.class
+com/yassir/restapimessanger/restapimessanger001/resources/ProfileResources.class
+com/yassir/restapimessanger/restapimessanger001/resources/MessageResources.class
+com/yassir/restapimessanger/restapimessanger001/service/ProfileServices.class
+com/yassir/restapimessanger/restapimessanger001/service/CommentService.class
+com/yassir/restapimessanger/restapimessanger001/model/Comment.class
+com/yassir/restapimessanger/restapimessanger001/model/Profile.class
+com/yassir/restapimessanger/restapimessanger001/MyResource.class
+com/yassir/restapimessanger/restapimessanger001/database/DatabaseClass.class
+com/yassir/restapimessanger/restapimessanger001/model/Message.class
+com/yassir/restapimessanger/restapimessanger001/resources/InjectDemoResource.class
+com/yassir/restapimessanger/restapimessanger001/service/MessagesService.class
+com/yassir/restapimessanger/restapimessanger001/resources/CommentsResource.class
