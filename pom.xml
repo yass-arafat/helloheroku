@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.yassir</groupId>
-    <artifactId>helloheroku01</artifactId>
+    <artifactId>helloheroku</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>helloheroku01</name>
+    <name>helloheroku</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
